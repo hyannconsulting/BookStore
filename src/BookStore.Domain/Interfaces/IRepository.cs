@@ -18,4 +18,4 @@ namespace BookStore.Domain.Interfaces
         Task<int> SaveChanges();
     }
 }
-}
+
